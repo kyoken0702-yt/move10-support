@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kyoken0702-yt.github.io/move10-support/sitemap.xml
